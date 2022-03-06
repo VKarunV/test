@@ -5,7 +5,7 @@ from allure_commons.types import AttachmentType
 from selenium import webdriver
 
 
-class Testpyk():
+class Testpyk1():
 
     @pytest.yield_fixture(scope="class")
     def test_parent(self):
